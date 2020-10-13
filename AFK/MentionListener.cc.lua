@@ -1,8 +1,3 @@
-{{/*
-	This command manages mentioning of users who are AFK.
-
-	Trigger: Regex trigger with trigger `<@!?\d+>`
-*/}}
 {{ $id := reFind `\d+` .Cmd | toInt64 }}
 {{ with (dbGet $id "afk") }}
 	{{ $user := userArg .UserID }}
