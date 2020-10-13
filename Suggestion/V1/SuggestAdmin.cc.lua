@@ -15,7 +15,7 @@
 	"default" 0x0070BB
 	"approved" 0x50C878
 	"denied" 0xDC143C
-}} {{/* Same as in other files, colors for the suggestion embed */}}
+}}
 {{/* CONFIGURATION VARIABLES END */}}
 
 {{ if .CmdArgs }}
