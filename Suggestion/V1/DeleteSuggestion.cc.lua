@@ -10,7 +10,7 @@
 	"default" 0x0070BB
 	"approved" 0x50C878
 	"denied" 0xDC143C
-}} {{/* Same as in other files, colors for the suggestion embed */}}
+}}
 {{ $staff := 671951488083296267 }} {{/* Role ID of role that can delete suggestions from other people */}}
 {{/* CONFIGURATION VARIABLES END */}}
 
