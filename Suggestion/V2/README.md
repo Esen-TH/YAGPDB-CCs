@@ -34,15 +34,15 @@
 
 6. `$Cooldown` -
 
-	Colldown in seconds between consucutive suggestions. This prevents suggestion misuse/spam. Can be set to 0 to disable. Mods/Admins can bypass the cooldown. In the server, it is set to 0 for no cooldown time.
+	Cooldown in seconds between consecutive suggestions. This prevents suggestion misuse/spam. Can be set to 0 to disable. Mods/Admins can bypass the cooldown. In the server, it is set to 0 for no cooldown time.
 
 7. `$Upvote` -
 
-	The emoji for upvote reaction "👍".
+	The emoji for upvote reaction "👍". This emoji can be changed to a custom emoji, but it is default on the server.
 	
 8. `$Downvote` -
 
-	The emoji for downvote reaction "👎".
+	The emoji for downvote reaction "👎". This emoji can be changed to a custom emoji, but it is default on the server.
   
 9. `$Neutral` -
 
